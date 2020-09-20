@@ -1,0 +1,1 @@
+<script type="module" src="assets/js/comments/CommentController.js"></script>
